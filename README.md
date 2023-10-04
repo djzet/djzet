@@ -13,7 +13,7 @@
 
 - :zap: Студент Томского техникума информационных технологий "ТТИТ".
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-djzet-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/djzet451) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](silaevegor2003@mail.ru)
 
 ---
 
