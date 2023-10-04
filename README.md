@@ -23,7 +23,6 @@
  </a>&nbsp
 </div>
 
-
 ---
 
 ### :man_technologist: Обо мне:
