@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/djzet?logo=github&style=for-the-bad
 
 - :zap: Студент Томского техникума информационных технологий "ТТИТ".
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-djzet-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/djzet451) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](silaevegor2003@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-djzet-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/djzet451) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](silaevegor2003@mail.ru)
 
 ---
 
